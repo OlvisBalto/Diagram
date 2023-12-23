@@ -1,0 +1,17 @@
+C:\DragKurvor\DragKurva\DragKurva\bin\Debug\DragKurva.exe
+C:\DragKurvor\DragKurva\DragKurva\bin\Debug\DragKurva.pdb
+C:\DragKurvor\DragKurva\DragKurva\obj\Debug\ResolveAssemblyReference.cache
+C:\DragKurvor\DragKurva\DragKurva\obj\Debug\DragKurva.Form1.resources
+C:\DragKurvor\DragKurva\DragKurva\obj\Debug\DragKurva.Properties.Resources.resources
+C:\DragKurvor\DragKurva\DragKurva\obj\Debug\DragKurva.csproj.GenerateResource.Cache
+C:\DragKurvor\DragKurva\DragKurva\obj\Debug\DragKurva.exe
+C:\DragKurvor\DragKurva\DragKurva\obj\Debug\DragKurva.pdb
+C:\DragKurvor\V2\DragKurva\obj\Debug\DragKurva.exe
+C:\DragKurvor\V2\DragKurva\obj\Debug\DragKurva.pdb
+C:\DragKurvor\V2\DragKurva\bin\Debug\DragKurva.exe
+C:\DragKurvor\V2\DragKurva\bin\Debug\DragKurva.pdb
+C:\DragKurvor\V2\DragKurva\obj\Debug\ResolveAssemblyReference.cache
+C:\DragKurvor\V2\DragKurva\obj\Debug\DragKurva.Form1.resources
+C:\DragKurvor\V2\DragKurva\obj\Debug\DragKurva.Properties.Resources.resources
+C:\DragKurvor\V2\DragKurva\obj\Debug\DragKurva.csproj.GenerateResource.Cache
+C:\DragKurvor\DragKurva\DragKurva\obj\Debug\DragKurva.Ipadform.resources

@@ -1,0 +1,10 @@
+D:\DragKurvor\DragKurva\DragKurva\bin\Debug\DragKurva.exe
+D:\DragKurvor\DragKurva\DragKurva\bin\Debug\DragKurva.pdb
+D:\DragKurvor\DragKurva\DragKurva\obj\Debug\DragKurva.Form1.resources
+D:\DragKurvor\DragKurva\DragKurva\obj\Debug\DragKurva.Ipadform.resources
+D:\DragKurvor\DragKurva\DragKurva\obj\Debug\DragKurva.Properties.Resources.resources
+D:\DragKurvor\DragKurva\DragKurva\obj\Debug\DragKurva.csproj.GenerateResource.Cache
+D:\DragKurvor\DragKurva\DragKurva\obj\Debug\DragKurva.csproj.CoreCompileInputs.cache
+D:\DragKurvor\DragKurva\DragKurva\obj\Debug\DragKurva.exe
+D:\DragKurvor\DragKurva\DragKurva\obj\Debug\DragKurva.pdb
+D:\DragKurvor\DragKurva\DragKurva\obj\Debug\DragKurva.csprojAssemblyReference.cache
